@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\peso-de-piezas-en-kg\proyecto11.3\proyecto11.3\bin\Debug\proyecto11.3.exe.config
+D:\Programas\Cursos\C# ya\peso-de-piezas-en-kg\proyecto11.3\proyecto11.3\bin\Debug\proyecto11.3.exe
+D:\Programas\Cursos\C# ya\peso-de-piezas-en-kg\proyecto11.3\proyecto11.3\bin\Debug\proyecto11.3.pdb
+D:\Programas\Cursos\C# ya\peso-de-piezas-en-kg\proyecto11.3\proyecto11.3\obj\Debug\proyecto11.3.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\peso-de-piezas-en-kg\proyecto11.3\proyecto11.3\obj\Debug\proyecto11.3.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\peso-de-piezas-en-kg\proyecto11.3\proyecto11.3\obj\Debug\proyecto11.3.exe
+D:\Programas\Cursos\C# ya\peso-de-piezas-en-kg\proyecto11.3\proyecto11.3\obj\Debug\proyecto11.3.pdb
